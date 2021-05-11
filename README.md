@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan Lashari</h1>
-<h3 align="center">A passionate Site Reliability Engineer from Pakistan</h3>
+<h3 align="center">A passionate Site Reliability Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanlashari&label=Profile%20views&color=0e75b6&style=flat" alt="shanlashari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanlashari&label=Profile%20views&color=0e75b6&style=plastic" alt="shanlashari" /> </p>
 
 - 🔭 I’m currently working on [TicketManager](https://github.com/ticketmanager)
 
@@ -17,16 +17,9 @@
 
 - 📄 Know about my experiences [https://shanlashari.github.io/resume/](https://shanlashari.github.io/resume/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shanlashari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shanlashari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shan-e-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shan-e-raza" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shanlashari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shanlashari" height="30" width="40" /></a>
-<a href="https://fb.com/shaanbalouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="shaanbalouch" height="30" width="40" /></a>
 <a href="https://medium.com/@shaneraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@shaneraza" height="30" width="40" /></a>
 </p>
 
