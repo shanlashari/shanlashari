@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Terraform, K8s, AWS, Golang, Bash**
 
-- 📫 How to reach me **shan.e.raza@outlook.com**
+- 📫 How to reach me **shan.e.raza@outlook.com / www.linkedin.com/in/shan-e-raza**
 
 - 📄 Know about my experiences [https://shanlashari.github.io/resume/](https://shanlashari.github.io/resume/)
 
