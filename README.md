@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shan Lashari</h1>
+<h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A passionate Site Reliability Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanlashari&label=Profile%20views&color=0e75b6&style=plastic" alt="shanlashari" /> </p>
