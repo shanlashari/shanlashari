@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shanlashari?tab=repositories](https://github.com/shanlashari?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@shaneraza](https://medium.com/@shaneraza)
-
 - 💬 Ask me about **Terraform, K8s, AWS, Golang, Bash**
 
 - 📫 How to reach me **shan.e.raza@outlook.com / www.linkedin.com/in/shan-e-raza**
