@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanlashari&label=Profile%20views&color=0e75b6&style=plastic" alt="shanlashari" /> </p>
 
-- 🔭 I’m currently working on [TicketManager](https://github.com/ticketmanager)
+- 🔭 I’m currently working on [FinCompare(https://github.com/fincompare)
 
 - 🌱 I’m currently learning **Blockchain, AI**
 
